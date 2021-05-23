@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/RoLarkins/poketimes.git/static/css/main.41b451e4.chunk.css",
+    "main.js": "/RoLarkins/poketimes.git/static/js/main.d71d97e0.chunk.js",
+    "main.js.map": "/RoLarkins/poketimes.git/static/js/main.d71d97e0.chunk.js.map",
+    "runtime-main.js": "/RoLarkins/poketimes.git/static/js/runtime-main.ac3316b4.js",
+    "runtime-main.js.map": "/RoLarkins/poketimes.git/static/js/runtime-main.ac3316b4.js.map",
+    "static/js/2.f0f3bfb4.chunk.js": "/RoLarkins/poketimes.git/static/js/2.f0f3bfb4.chunk.js",
+    "static/js/2.f0f3bfb4.chunk.js.map": "/RoLarkins/poketimes.git/static/js/2.f0f3bfb4.chunk.js.map",
+    "static/js/3.e2fc6544.chunk.js": "/RoLarkins/poketimes.git/static/js/3.e2fc6544.chunk.js",
+    "static/js/3.e2fc6544.chunk.js.map": "/RoLarkins/poketimes.git/static/js/3.e2fc6544.chunk.js.map",
+    "index.html": "/RoLarkins/poketimes.git/index.html",
+    "static/css/main.41b451e4.chunk.css.map": "/RoLarkins/poketimes.git/static/css/main.41b451e4.chunk.css.map",
+    "static/js/2.f0f3bfb4.chunk.js.LICENSE.txt": "/RoLarkins/poketimes.git/static/js/2.f0f3bfb4.chunk.js.LICENSE.txt",
+    "static/media/pokeball.05e5662d.png": "/RoLarkins/poketimes.git/static/media/pokeball.05e5662d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ac3316b4.js",
+    "static/js/2.f0f3bfb4.chunk.js",
+    "static/css/main.41b451e4.chunk.css",
+    "static/js/main.d71d97e0.chunk.js"
+  ]
+}
