@@ -1,4 +1,5 @@
-{"homepage": "https://github.com/RoLarkins/poketimes.git",
+{
+  "homepage": "https://github.com/RoLarkins/poketimes.git",
   "name": "poketimes",
   "version": "0.1.0",
   "private": true,
